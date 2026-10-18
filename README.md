@@ -6,7 +6,7 @@ daily for liveness without ever paying. Every figure is labelled by how it was o
 evidence. Rebuilt nightly.
 
 - `index.html` — human summary
-- `index.json` — summary, top entities, top resources
-- `resources.json` — every non-burst listing with its verdict
-- `entities.json` — payTo-based entities
+- `index.json` — summary, top 20 entities and top 20 endpoints (public layer; the full per-endpoint dataset with daily history is available under licence)
+
+
 - `weekly/` — weekly markdown reports
