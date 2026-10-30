@@ -3,123 +3,123 @@
  "summary": {
   "categories": {
    "ai_inference": {
-    "dead_listing": 45,
+    "dead_listing": 24,
     "live_catalogue_signal": 11,
-    "live_minimal": 31,
+    "live_minimal": 27,
     "live_noise": 0,
-    "resources": 3658,
+    "resources": 3340,
     "unprobed": 69,
-    "verified_entity_paid": 3426,
-    "verified_paid": 76
+    "verified_entity_paid": 3129,
+    "verified_paid": 80
    },
    "blockchain_data": {
-    "dead_listing": 347,
-    "live_catalogue_signal": 18,
+    "dead_listing": 344,
+    "live_catalogue_signal": 17,
     "live_minimal": 34,
     "live_noise": 3,
-    "resources": 11168,
-    "unprobed": 4396,
-    "verified_entity_paid": 6306,
-    "verified_paid": 64
+    "resources": 11735,
+    "unprobed": 4667,
+    "verified_entity_paid": 6603,
+    "verified_paid": 67
    },
    "data_transformation": {
-    "dead_listing": 6,
+    "dead_listing": 3,
     "live_catalogue_signal": 1,
     "live_minimal": 19,
     "live_noise": 0,
-    "resources": 1068,
-    "unprobed": 24,
-    "verified_entity_paid": 1001,
-    "verified_paid": 17
+    "resources": 1046,
+    "unprobed": 22,
+    "verified_entity_paid": 985,
+    "verified_paid": 16
    },
    "developer_tools": {
-    "dead_listing": 14,
+    "dead_listing": 15,
     "live_catalogue_signal": 1,
     "live_minimal": 3,
     "live_noise": 0,
-    "resources": 1797,
-    "unprobed": 157,
-    "verified_entity_paid": 1600,
+    "resources": 1811,
+    "unprobed": 169,
+    "verified_entity_paid": 1601,
     "verified_paid": 22
    },
    "document_processing": {
-    "dead_listing": 101,
+    "dead_listing": 99,
     "live_catalogue_signal": 1,
-    "live_minimal": 8,
+    "live_minimal": 7,
     "live_noise": 0,
-    "resources": 2839,
-    "unprobed": 1676,
-    "verified_entity_paid": 1035,
-    "verified_paid": 18
+    "resources": 3014,
+    "unprobed": 1764,
+    "verified_entity_paid": 1123,
+    "verified_paid": 20
    },
    "identity_reputation": {
-    "dead_listing": 79,
+    "dead_listing": 77,
     "live_catalogue_signal": 0,
     "live_minimal": 24,
     "live_noise": 0,
-    "resources": 2984,
-    "unprobed": 1207,
-    "verified_entity_paid": 1650,
-    "verified_paid": 24
+    "resources": 3037,
+    "unprobed": 1223,
+    "verified_entity_paid": 1690,
+    "verified_paid": 23
    },
    "market_data": {
-    "dead_listing": 59,
+    "dead_listing": 60,
     "live_catalogue_signal": 3,
     "live_minimal": 6,
     "live_noise": 0,
-    "resources": 1820,
-    "unprobed": 579,
-    "verified_entity_paid": 1160,
+    "resources": 1881,
+    "unprobed": 620,
+    "verified_entity_paid": 1179,
     "verified_paid": 13
    },
    "media": {
-    "dead_listing": 36,
+    "dead_listing": 35,
     "live_catalogue_signal": 0,
     "live_minimal": 0,
     "live_noise": 0,
-    "resources": 1352,
-    "unprobed": 519,
-    "verified_entity_paid": 774,
+    "resources": 1421,
+    "unprobed": 579,
+    "verified_entity_paid": 784,
     "verified_paid": 23
    },
    "news_intelligence": {
-    "dead_listing": 275,
+    "dead_listing": 274,
     "live_catalogue_signal": 1,
     "live_minimal": 6,
     "live_noise": 0,
-    "resources": 4800,
-    "unprobed": 3058,
-    "verified_entity_paid": 1448,
-    "verified_paid": 12
+    "resources": 5251,
+    "unprobed": 3335,
+    "verified_entity_paid": 1622,
+    "verified_paid": 13
    },
    "other": {
-    "dead_listing": 1859,
+    "dead_listing": 1826,
     "live_catalogue_signal": 26,
-    "live_minimal": 86,
+    "live_minimal": 93,
     "live_noise": 0,
-    "resources": 43015,
-    "unprobed": 25905,
-    "verified_entity_paid": 14942,
-    "verified_paid": 197
+    "resources": 46255,
+    "unprobed": 27921,
+    "verified_entity_paid": 16189,
+    "verified_paid": 200
    },
    "search": {
-    "dead_listing": 4,
+    "dead_listing": 1,
     "live_catalogue_signal": 1,
     "live_minimal": 1,
     "live_noise": 0,
-    "resources": 261,
+    "resources": 257,
     "unprobed": 17,
     "verified_entity_paid": 232,
-    "verified_paid": 6
+    "verified_paid": 5
    },
    "social_data": {
-    "dead_listing": 3,
+    "dead_listing": 2,
     "live_catalogue_signal": 0,
     "live_minimal": 1,
     "live_noise": 0,
-    "resources": 319,
+    "resources": 311,
     "unprobed": 8,
-    "verified_entity_paid": 303,
+    "verified_entity_paid": 296,
     "verified_paid": 4
    },
    "translation": {
@@ -127,39 +127,39 @@
     "live_catalogue_signal": 0,
     "live_minimal": 0,
     "live_noise": 0,
-    "resources": 225,
-    "unprobed": 118,
-    "verified_entity_paid": 98,
+    "resources": 232,
+    "unprobed": 129,
+    "verified_entity_paid": 94,
     "verified_paid": 1
    },
    "utility": {
-    "dead_listing": 5,
+    "dead_listing": 2,
     "live_catalogue_signal": 0,
     "live_minimal": 7,
     "live_noise": 0,
-    "resources": 488,
+    "resources": 469,
     "unprobed": 3,
-    "verified_entity_paid": 455,
-    "verified_paid": 18
+    "verified_entity_paid": 438,
+    "verified_paid": 19
    },
    "verification": {
-    "dead_listing": 618,
+    "dead_listing": 610,
     "live_catalogue_signal": 1,
     "live_minimal": 10,
     "live_noise": 2,
-    "resources": 12313,
-    "unprobed": 8025,
-    "verified_entity_paid": 3596,
-    "verified_paid": 61
+    "resources": 13353,
+    "unprobed": 8668,
+    "verified_entity_paid": 4000,
+    "verified_paid": 62
    },
    "weather_geospatial": {
-    "dead_listing": 244,
-    "live_catalogue_signal": 4,
-    "live_minimal": 13,
+    "dead_listing": 240,
+    "live_catalogue_signal": 5,
+    "live_minimal": 15,
     "live_noise": 0,
-    "resources": 5021,
-    "unprobed": 3096,
-    "verified_entity_paid": 1646,
+    "resources": 5446,
+    "unprobed": 3354,
+    "verified_entity_paid": 1814,
     "verified_paid": 18
    },
    "web_extraction": {
@@ -167,20 +167,20 @@
     "live_catalogue_signal": 0,
     "live_minimal": 0,
     "live_noise": 0,
-    "resources": 639,
-    "unprobed": 149,
-    "verified_entity_paid": 468,
+    "resources": 652,
+    "unprobed": 161,
+    "verified_entity_paid": 469,
     "verified_paid": 11
    }
   },
-  "entities": 1907,
-  "generated_at": "2026-10-29T06:01:36Z",
+  "entities": 1922,
+  "generated_at": "2026-10-30T05:55:15Z",
   "history": {
-   "complete_snapshots": 120,
+   "complete_snapshots": 123,
    "first": "2026-09-14T10:53:22Z",
-   "last": "2026-10-28T22:20:37Z"
+   "last": "2026-10-30T02:11:15Z"
   },
-  "live_resources": 907,
+  "live_resources": 923,
   "method": {
    "catalogue": "CDP x402 Bazaar discovery list, full offset traversal every 6 hours since 2026-09-14.",
    "noise": "qualification_burst = a provider's listings showing identical tiny calls==payers stamped in the same minute; such counters are index pings, not demand.",
@@ -189,38 +189,38 @@
    "verdict": "verified_paid = live and at least one on-chain payer in 30 days to this resource's own payTo that is not a listed seller; verified_entity_paid = same evidence but the payTo is shared by several listings, so only the operator is verified; live_catalogue_signal = live with >=3 reported payers and no noise label; dead_listing = last probe unreachable, 5xx or 404."
   },
   "noise_labels": {
-   "concentrated_payer": 81,
-   "metrics_missing": 620,
+   "concentrated_payer": 89,
+   "metrics_missing": 581,
    "no_calls": 8,
-   "none": 11556,
-   "one_call_per_payer": 7787,
-   "qualification_burst": 37283,
-   "single_payer": 36432
+   "none": 11413,
+   "one_call_per_payer": 7639,
+   "qualification_burst": 39910,
+   "single_payer": 39871
   },
-  "probed_resources": 45500,
-  "resources_listed": 93767,
-  "resources_with_onchain_payments": 654,
+  "probed_resources": 47590,
+  "resources_listed": 99511,
+  "resources_with_onchain_payments": 661,
   "settlement_coverage": {
    "network": "eip155:8453",
-   "to_block": 53231551,
-   "updated_at": "2026-10-29T06:01:27Z"
+   "to_block": 53269897,
+   "updated_at": "2026-10-30T03:24:19Z"
   },
-  "snapshot_completed_at": "2026-10-28T22:20:37Z",
-  "snapshot_id": "20261028T211643Z",
+  "snapshot_completed_at": "2026-10-30T02:11:15Z",
+  "snapshot_id": "20261030T013714Z",
   "verdicts": {
-   "dead_listing": 3714,
+   "dead_listing": 3631,
    "live_catalogue_signal": 68,
-   "live_minimal": 249,
+   "live_minimal": 253,
    "live_noise": 5,
-   "unprobed": 49006,
-   "verified_entity_paid": 40140,
-   "verified_paid": 585
+   "unprobed": 52709,
+   "verified_entity_paid": 42248,
+   "verified_paid": 597
   }
  },
  "top_entities": [
   {
-   "catalogue_calls_30d": 151901,
-   "catalogue_payers_30d": 857,
+   "catalogue_calls_30d": 131385,
+   "catalogue_payers_30d": 543,
    "hostnames": [
     "ax1-new.vercel.app",
     "www.ax1.vc"
@@ -230,15 +230,15 @@
    "resources_burst": 0,
    "resources_clean": 2,
    "settlement": {
-    "days_active_30d": 12,
-    "payments_30d": 160435,
-    "repeat_payers_30d": 428,
-    "unique_payers_30d": 2379
+    "days_active_30d": 13,
+    "payments_30d": 180435,
+    "repeat_payers_30d": 455,
+    "unique_payers_30d": 2509
    }
   },
   {
-   "catalogue_calls_30d": 8967,
-   "catalogue_payers_30d": 8421,
+   "catalogue_calls_30d": 9363,
+   "catalogue_payers_30d": 8812,
    "hostnames": [
     "api.onesource.io"
    ],
@@ -248,14 +248,14 @@
    "resources_clean": 70,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 9633,
-    "repeat_payers_30d": 74,
-    "unique_payers_30d": 1255
+    "payments_30d": 10146,
+    "repeat_payers_30d": 69,
+    "unique_payers_30d": 1319
    }
   },
   {
-   "catalogue_calls_30d": 464,
-   "catalogue_payers_30d": 119,
+   "catalogue_calls_30d": 476,
+   "catalogue_payers_30d": 126,
    "hostnames": [
     "api.bitrefill.com"
    ],
@@ -265,14 +265,14 @@
    "resources_clean": 8,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 5027,
-    "repeat_payers_30d": 738,
-    "unique_payers_30d": 1077
+    "payments_30d": 5893,
+    "repeat_payers_30d": 751,
+    "unique_payers_30d": 1058
    }
   },
   {
-   "catalogue_calls_30d": 1056,
-   "catalogue_payers_30d": 1045,
+   "catalogue_calls_30d": 996,
+   "catalogue_payers_30d": 985,
    "hostnames": [
     "cloud.trycorpus.ai"
    ],
@@ -281,15 +281,15 @@
    "resources_burst": 0,
    "resources_clean": 29,
    "settlement": {
-    "days_active_30d": 19,
-    "payments_30d": 1086,
+    "days_active_30d": 18,
+    "payments_30d": 1029,
     "repeat_payers_30d": 3,
-    "unique_payers_30d": 588
+    "unique_payers_30d": 554
    }
   },
   {
-   "catalogue_calls_30d": 65542,
-   "catalogue_payers_30d": 2821,
+   "catalogue_calls_30d": 65229,
+   "catalogue_payers_30d": 2898,
    "hostnames": [
     "www.api-xpay.com"
    ],
@@ -298,10 +298,10 @@
    "resources_burst": 0,
    "resources_clean": 14,
    "settlement": {
-    "days_active_30d": 21,
-    "payments_30d": 41035,
-    "repeat_payers_30d": 36,
-    "unique_payers_30d": 474
+    "days_active_30d": 22,
+    "payments_30d": 42980,
+    "repeat_payers_30d": 39,
+    "unique_payers_30d": 493
    }
   },
   {
@@ -315,38 +315,34 @@
    "resources_burst": 0,
    "resources_clean": 1,
    "settlement": {
-    "days_active_30d": 26,
-    "payments_30d": 12115,
+    "days_active_30d": 28,
+    "payments_30d": 12389,
     "repeat_payers_30d": 346,
     "unique_payers_30d": 352
    }
   },
   {
-   "catalogue_calls_30d": null,
-   "catalogue_payers_30d": null,
+   "catalogue_calls_30d": 102301,
+   "catalogue_payers_30d": 800,
    "hostnames": [
-    "blockrun-staging-12ef33c-152211-vbsbhh7lea-uc.a.run.app",
-    "blockrun-staging-282d5a3-160140-vbsbhh7lea-uc.a.run.app",
-    "blockrun-staging-315c8dc-144557-vbsbhh7lea-uc.a.run.app",
-    "blockrun-staging-7906762-205019-vbsbhh7lea-uc.a.run.app",
-    "blockrun-staging-860079c-183024-vbsbhh7lea-uc.a.run.app",
+    "blockrun-staging-e37b005-182105-vbsbhh7lea-uc.a.run.app",
     "blockrun-web-vbsbhh7lea-uc.a.run.app",
     "blockrun.ai"
    ],
    "network": "eip155:8453",
-   "resources": 59,
+   "resources": 55,
    "resources_burst": 0,
    "resources_clean": 49,
    "settlement": {
-    "days_active_30d": 18,
-    "payments_30d": 57644,
-    "repeat_payers_30d": 137,
-    "unique_payers_30d": 327
+    "days_active_30d": 19,
+    "payments_30d": 60786,
+    "repeat_payers_30d": 142,
+    "unique_payers_30d": 338
    }
   },
   {
-   "catalogue_calls_30d": 832,
-   "catalogue_payers_30d": 466,
+   "catalogue_calls_30d": 767,
+   "catalogue_payers_30d": 440,
    "hostnames": [
     "api.aidress.ai",
     "content.hugen.tokyo",
@@ -362,19 +358,37 @@
     "whale.hugen.tokyo"
    ],
    "network": "eip155:8453",
-   "resources": 53,
+   "resources": 48,
    "resources_burst": 0,
-   "resources_clean": 44,
+   "resources_clean": 28,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 863,
+    "payments_30d": 819,
     "repeat_payers_30d": 97,
     "unique_payers_30d": 308
    }
   },
   {
-   "catalogue_calls_30d": 2204,
-   "catalogue_payers_30d": 506,
+   "catalogue_calls_30d": 42981,
+   "catalogue_payers_30d": 412,
+   "hostnames": [
+    "enrichx402.com",
+    "stableenrich.dev"
+   ],
+   "network": "eip155:8453",
+   "resources": 15,
+   "resources_burst": 0,
+   "resources_clean": 13,
+   "settlement": {
+    "days_active_30d": 26,
+    "payments_30d": 56766,
+    "repeat_payers_30d": 110,
+    "unique_payers_30d": 293
+   }
+  },
+  {
+   "catalogue_calls_30d": 2226,
+   "catalogue_payers_30d": 519,
    "hostnames": [
     "api.aidress.ai",
     "x402.ottoai.services"
@@ -385,54 +399,31 @@
    "resources_clean": 66,
    "settlement": {
     "days_active_30d": 29,
-    "payments_30d": 2379,
-    "repeat_payers_30d": 74,
+    "payments_30d": 2396,
+    "repeat_payers_30d": 69,
     "unique_payers_30d": 291
    }
   },
   {
-   "catalogue_calls_30d": 42978,
-   "catalogue_payers_30d": 429,
-   "hostnames": [
-    "enrichx402.com",
-    "stable-enrich-git-fix-stableenrich-exa-api-schema-merit-systems.vercel.app",
-    "stable-enrich-git-mason-migrate-off-prices-map-merit-systems.vercel.app",
-    "stable-enrich-git-payai-solana-facilitator-merit-systems.vercel.app",
-    "stable-enrich-git-shafu-stableenrich-compa-a1ba99-merit-systems.vercel.app",
-    "stable-enrich-git-shafu-stableenrich-peopl-a13b22-merit-systems.vercel.app",
-    "stableenrich.dev"
-   ],
-   "network": "eip155:8453",
-   "resources": 20,
-   "resources_burst": 0,
-   "resources_clean": 18,
-   "settlement": {
-    "days_active_30d": 25,
-    "payments_30d": 55270,
-    "repeat_payers_30d": 106,
-    "unique_payers_30d": 282
-   }
-  },
-  {
-   "catalogue_calls_30d": 13349,
-   "catalogue_payers_30d": 2348,
+   "catalogue_calls_30d": 13440,
+   "catalogue_payers_30d": 2364,
    "hostnames": [
     "agent402.tools"
    ],
    "network": "eip155:8453",
    "resources": 620,
    "resources_burst": 0,
-   "resources_clean": 576,
+   "resources_clean": 575,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 15337,
-    "repeat_payers_30d": 133,
-    "unique_payers_30d": 261
+    "payments_30d": 15297,
+    "repeat_payers_30d": 135,
+    "unique_payers_30d": 265
    }
   },
   {
-   "catalogue_calls_30d": 10516,
-   "catalogue_payers_30d": 141,
+   "catalogue_calls_30d": 9776,
+   "catalogue_payers_30d": 139,
    "hostnames": [
     "api.aidress.ai",
     "api.exa.ai"
@@ -443,31 +434,31 @@
    "resources_clean": 3,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 26288,
-    "repeat_payers_30d": 70,
-    "unique_payers_30d": 217
+    "payments_30d": 26272,
+    "repeat_payers_30d": 72,
+    "unique_payers_30d": 222
    }
   },
   {
-   "catalogue_calls_30d": 4074,
-   "catalogue_payers_30d": 436,
+   "catalogue_calls_30d": 4108,
+   "catalogue_payers_30d": 445,
    "hostnames": [
     "api.nansen.ai"
    ],
    "network": "eip155:8453",
    "resources": 38,
    "resources_burst": 0,
-   "resources_clean": 31,
+   "resources_clean": 32,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 4848,
+    "payments_30d": 4846,
     "repeat_payers_30d": 53,
-    "unique_payers_30d": 190
+    "unique_payers_30d": 189
    }
   },
   {
-   "catalogue_calls_30d": 937,
-   "catalogue_payers_30d": 490,
+   "catalogue_calls_30d": 1006,
+   "catalogue_payers_30d": 483,
    "hostnames": [
     "api.aidress.ai",
     "blockrun.ai"
@@ -478,14 +469,14 @@
    "resources_clean": 53,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 963,
+    "payments_30d": 1018,
     "repeat_payers_30d": 87,
-    "unique_payers_30d": 179
+    "unique_payers_30d": 175
    }
   },
   {
-   "catalogue_calls_30d": 148,
-   "catalogue_payers_30d": 113,
+   "catalogue_calls_30d": 155,
+   "catalogue_payers_30d": 120,
    "hostnames": [
     "vibesprings.net"
    ],
@@ -496,13 +487,13 @@
    "settlement": {
     "days_active_30d": 30,
     "payments_30d": 318,
-    "repeat_payers_30d": 19,
-    "unique_payers_30d": 139
+    "repeat_payers_30d": 15,
+    "unique_payers_30d": 142
    }
   },
   {
-   "catalogue_calls_30d": 497,
-   "catalogue_payers_30d": 346,
+   "catalogue_calls_30d": 489,
+   "catalogue_payers_30d": 341,
    "hostnames": [
     "api.oblique.markets"
    ],
@@ -512,14 +503,14 @@
    "resources_clean": 49,
    "settlement": {
     "days_active_30d": 30,
-    "payments_30d": 433,
-    "repeat_payers_30d": 33,
-    "unique_payers_30d": 138
+    "payments_30d": 429,
+    "repeat_payers_30d": 28,
+    "unique_payers_30d": 137
    }
   },
   {
-   "catalogue_calls_30d": 761,
-   "catalogue_payers_30d": 408,
+   "catalogue_calls_30d": 651,
+   "catalogue_payers_30d": 405,
    "hostnames": [
     "api.agentstools.dev",
     "webtools402.176-109-107-191.sslip.io"
@@ -529,14 +520,14 @@
    "resources_burst": 70,
    "resources_clean": 80,
    "settlement": {
-    "days_active_30d": 30,
-    "payments_30d": 1348,
+    "days_active_30d": 31,
+    "payments_30d": 1254,
     "repeat_payers_30d": 39,
-    "unique_payers_30d": 128
+    "unique_payers_30d": 131
    }
   },
   {
-   "catalogue_calls_30d": 2074,
+   "catalogue_calls_30d": 2094,
    "catalogue_payers_30d": 194,
    "hostnames": [
     "glim.sh",
@@ -549,14 +540,14 @@
    "resources_clean": 34,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 6705,
-    "repeat_payers_30d": 31,
-    "unique_payers_30d": 127
+    "payments_30d": 6796,
+    "repeat_payers_30d": 32,
+    "unique_payers_30d": 128
    }
   },
   {
-   "catalogue_calls_30d": 1836,
-   "catalogue_payers_30d": 258,
+   "catalogue_calls_30d": 1826,
+   "catalogue_payers_30d": 271,
    "hostnames": [
     "chain.cyberwarex.com",
     "council.cyberwarex.com",
@@ -576,27 +567,26 @@
    "resources_clean": 48,
    "settlement": {
     "days_active_30d": 31,
-    "payments_30d": 2821,
-    "repeat_payers_30d": 29,
-    "unique_payers_30d": 121
+    "payments_30d": 2842,
+    "repeat_payers_30d": 31,
+    "unique_payers_30d": 126
    }
   },
   {
-   "catalogue_calls_30d": 6516,
-   "catalogue_payers_30d": 107,
+   "catalogue_calls_30d": 82790,
+   "catalogue_payers_30d": 648,
    "hostnames": [
-    "api.aidress.ai",
-    "x402.twit.sh"
+    "agent.pocket.network"
    ],
    "network": "eip155:8453",
-   "resources": 21,
+   "resources": 116,
    "resources_burst": 0,
-   "resources_clean": 14,
+   "resources_clean": 108,
    "settlement": {
-    "days_active_30d": 31,
-    "payments_30d": 16242,
-    "repeat_payers_30d": 41,
-    "unique_payers_30d": 115
+    "days_active_30d": 19,
+    "payments_30d": 69680,
+    "repeat_payers_30d": 60,
+    "unique_payers_30d": 123
    }
   }
  ],
@@ -611,24 +601,24 @@
    "category": "other",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 12115,
+    "payments_30d": 12389,
     "repeat_payers_30d": 346,
     "unique_payers_30d": 352
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
    "noise": "one_call_per_payer",
    "price_usd": 0.1,
    "probe": {
-    "checked_at": "2026-10-29T04:06:51Z",
+    "checked_at": "2026-10-30T04:23:06Z",
     "outcome": "x402_challenge"
    },
    "service": "BotPay NFT Mint",
    "settlement": {
-    "days_active_30d": 26,
-    "payments_30d": 12115,
+    "days_active_30d": 28,
+    "payments_30d": 12389,
     "repeat_payers_30d": 346,
     "unique_payers_30d": 352
    },
@@ -637,76 +627,42 @@
   },
   {
    "catalogue": {
-    "calls_30d": 290,
-    "last_called_at": "2026-10-28T03:28:51.569Z",
-    "payers_30d": 10,
-    "signal": "strong"
-   },
-   "category": "other",
-   "entity_settlement": {
-    "days_active_30d": null,
-    "payments_30d": 383,
-    "repeat_payers_30d": 6,
-    "unique_payers_30d": 70
-   },
-   "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
-   "method": "GET",
-   "network": "eip155:8453",
-   "noise": "none",
-   "price_usd": 0.001,
-   "probe": {
-    "checked_at": "2026-10-29T03:17:44Z",
-    "outcome": "x402_challenge"
-   },
-   "service": "Clash of Coins",
-   "settlement": {
-    "days_active_30d": 28,
-    "payments_30d": 382,
-    "repeat_payers_30d": 6,
-    "unique_payers_30d": 70
-   },
-   "url": "https://x402.clashofcoins.com/x402/cheap-health",
-   "verdict": "verified_paid"
-  },
-  {
-   "catalogue": {
-    "calls_30d": 11785,
-    "last_called_at": "2026-10-28T17:31:56.664Z",
-    "payers_30d": 49,
+    "calls_30d": 12341,
+    "last_called_at": "2026-10-30T00:32:43.638Z",
+    "payers_30d": 55,
     "signal": "strong"
    },
    "category": "market_data",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 26694,
-    "repeat_payers_30d": 32,
-    "unique_payers_30d": 55
+    "payments_30d": 27026,
+    "repeat_payers_30d": 45,
+    "unique_payers_30d": 56
    },
    "first_seen": "20261013T095132Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.01,
    "probe": {
-    "checked_at": "2026-10-29T03:04:53Z",
+    "checked_at": "2026-10-30T03:25:24Z",
     "outcome": "x402_challenge"
    },
    "service": "Agents Trust API Search",
    "settlement": {
-    "days_active_30d": 30,
-    "payments_30d": 26694,
-    "repeat_payers_30d": 32,
-    "unique_payers_30d": 55
+    "days_active_30d": 31,
+    "payments_30d": 27026,
+    "repeat_payers_30d": 45,
+    "unique_payers_30d": 56
    },
    "url": "https://api.agents-trust.com/recommend",
    "verdict": "verified_paid"
   },
   {
    "catalogue": {
-    "calls_30d": 12,
-    "last_called_at": "2026-10-28T02:08:08.881Z",
+    "calls_30d": 13,
+    "last_called_at": "2026-10-29T20:19:39.763Z",
     "payers_30d": 7,
     "signal": "moderate"
    },
@@ -714,24 +670,24 @@
    "entity_settlement": {
     "days_active_30d": null,
     "payments_30d": 61,
-    "repeat_payers_30d": 3,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 49
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.002,
    "probe": {
-    "checked_at": "2026-10-29T03:20:31Z",
+    "checked_at": "2026-10-30T03:28:22Z",
     "outcome": "x402_challenge"
    },
    "service": null,
    "settlement": {
     "days_active_30d": 20,
     "payments_30d": 61,
-    "repeat_payers_30d": 3,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 49
    },
    "url": "https://5108-x402.community.iamstarchild.com/bazaar/crypto/price",
@@ -739,34 +695,68 @@
   },
   {
    "catalogue": {
-    "calls_30d": 1,
-    "last_called_at": "2026-10-22T16:27:05.392Z",
-    "payers_30d": 1,
+    "calls_30d": 299,
+    "last_called_at": "2026-10-29T18:18:45.948Z",
+    "payers_30d": 15,
+    "signal": "strong"
+   },
+   "category": "other",
+   "entity_settlement": {
+    "days_active_30d": null,
+    "payments_30d": 371,
+    "repeat_payers_30d": 6,
+    "unique_payers_30d": 52
+   },
+   "first_seen": "20260914T104921Z",
+   "last_seen": "20261030T013714Z",
+   "method": "GET",
+   "network": "eip155:8453",
+   "noise": "none",
+   "price_usd": 0.001,
+   "probe": {
+    "checked_at": "2026-10-30T05:10:40Z",
+    "outcome": "x402_challenge"
+   },
+   "service": "Clash of Coins",
+   "settlement": {
+    "days_active_30d": 27,
+    "payments_30d": 353,
+    "repeat_payers_30d": 6,
+    "unique_payers_30d": 43
+   },
+   "url": "https://x402.clashofcoins.com/x402/cheap-health",
+   "verdict": "verified_paid"
+  },
+  {
+   "catalogue": {
+    "calls_30d": 2,
+    "last_called_at": "2026-10-29T19:55:04.566Z",
+    "payers_30d": 2,
     "signal": "minimal"
    },
    "category": "identity_reputation",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 862,
-    "repeat_payers_30d": 9,
-    "unique_payers_30d": 40
+    "payments_30d": 809,
+    "repeat_payers_30d": 11,
+    "unique_payers_30d": 41
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
-   "noise": "single_payer",
+   "noise": "one_call_per_payer",
    "price_usd": 0.1,
    "probe": {
-    "checked_at": "2026-10-29T04:29:43Z",
+    "checked_at": "2026-10-30T04:30:13Z",
     "outcome": "x402_challenge"
    },
    "service": "Deepline GTM API",
    "settlement": {
     "days_active_30d": 23,
-    "payments_30d": 862,
-    "repeat_payers_30d": 9,
-    "unique_payers_30d": 40
+    "payments_30d": 809,
+    "repeat_payers_30d": 11,
+    "unique_payers_30d": 41
    },
    "url": "https://stable-deepline.dev/api/company/enrich",
    "verdict": "verified_paid"
@@ -781,26 +771,26 @@
    "category": "other",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 437,
+    "payments_30d": 423,
     "repeat_payers_30d": 10,
-    "unique_payers_30d": 34
+    "unique_payers_30d": 33
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "single_payer",
    "price_usd": 0.02,
    "probe": {
-    "checked_at": "2026-10-29T04:42:54Z",
+    "checked_at": "2026-10-30T05:02:17Z",
     "outcome": "x402_challenge"
    },
    "service": null,
    "settlement": {
-    "days_active_30d": 28,
-    "payments_30d": 430,
+    "days_active_30d": 27,
+    "payments_30d": 411,
     "repeat_payers_30d": 10,
-    "unique_payers_30d": 34
+    "unique_payers_30d": 33
    },
    "url": "https://wolframalpha.x402.paysponge.com/v2/query",
    "verdict": "verified_paid"
@@ -820,7 +810,7 @@
     "unique_payers_30d": 27
    },
    "first_seen": "20261021T184257Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
    "noise": "one_call_per_payer",
@@ -841,9 +831,9 @@
   },
   {
    "catalogue": {
-    "calls_30d": 24,
-    "last_called_at": "2026-10-28T05:00:44.833Z",
-    "payers_30d": 16,
+    "calls_30d": 26,
+    "last_called_at": "2026-10-28T23:03:18.163Z",
+    "payers_30d": 17,
     "signal": "moderate"
    },
    "category": "verification",
@@ -854,13 +844,13 @@
     "unique_payers_30d": 23
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.01,
    "probe": {
-    "checked_at": "2026-10-29T03:14:18Z",
+    "checked_at": "2026-10-30T03:43:03Z",
     "outcome": "x402_challenge"
    },
    "service": "HTTP Security Headers Check",
@@ -875,43 +865,77 @@
   },
   {
    "catalogue": {
-    "calls_30d": 79,
-    "last_called_at": "2026-10-28T13:31:14.024Z",
+    "calls_30d": 118,
+    "last_called_at": "2026-10-29T18:18:52.609Z",
+    "payers_30d": 13,
+    "signal": "strong"
+   },
+   "category": "ai_inference",
+   "entity_settlement": {
+    "days_active_30d": null,
+    "payments_30d": 135,
+    "repeat_payers_30d": 6,
+    "unique_payers_30d": 22
+   },
+   "first_seen": "20260914T104921Z",
+   "last_seen": "20261030T013714Z",
+   "method": "POST",
+   "network": "eip155:8453",
+   "noise": "none",
+   "price_usd": 0.001,
+   "probe": {
+    "checked_at": "2026-10-30T03:30:01Z",
+    "outcome": "x402_challenge"
+   },
+   "service": null,
+   "settlement": {
+    "days_active_30d": 14,
+    "payments_30d": 135,
+    "repeat_payers_30d": 6,
+    "unique_payers_30d": 22
+   },
+   "url": "https://gamemaxxing.baes.so/api/agent/v1/search",
+   "verdict": "verified_paid"
+  },
+  {
+   "catalogue": {
+    "calls_30d": 80,
+    "last_called_at": "2026-10-29T13:56:58.956Z",
     "payers_30d": 12,
     "signal": "strong"
    },
    "category": "other",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 147,
+    "payments_30d": 143,
     "repeat_payers_30d": 7,
-    "unique_payers_30d": 22
+    "unique_payers_30d": 21
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.01,
    "probe": {
-    "checked_at": "2026-10-29T03:08:56Z",
+    "checked_at": "2026-10-30T03:36:07Z",
     "outcome": "x402_challenge"
    },
    "service": "ip402.xyz",
    "settlement": {
-    "days_active_30d": 30,
-    "payments_30d": 147,
+    "days_active_30d": 29,
+    "payments_30d": 143,
     "repeat_payers_30d": 7,
-    "unique_payers_30d": 22
+    "unique_payers_30d": 21
    },
    "url": "https://ip402.xyz/v1/geo",
    "verdict": "verified_paid"
   },
   {
    "catalogue": {
-    "calls_30d": 59,
-    "last_called_at": "2026-10-27T09:54:15.918Z",
-    "payers_30d": 13,
+    "calls_30d": 60,
+    "last_called_at": "2026-10-28T23:08:50.556Z",
+    "payers_30d": 14,
     "signal": "strong"
    },
    "category": "media",
@@ -922,13 +946,13 @@
     "unique_payers_30d": 20
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.005,
    "probe": {
-    "checked_at": "2026-10-29T03:33:09Z",
+    "checked_at": "2026-10-30T03:42:06Z",
     "outcome": "x402_challenge"
    },
    "service": "Wikipedia Article Summary",
@@ -943,32 +967,32 @@
   },
   {
    "catalogue": {
-    "calls_30d": 16,
-    "last_called_at": "2026-10-28T03:51:32.215Z",
-    "payers_30d": 12,
+    "calls_30d": 18,
+    "last_called_at": "2026-10-29T01:18:19.331Z",
+    "payers_30d": 13,
     "signal": "moderate"
    },
    "category": "ai_inference",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 92,
+    "payments_30d": 97,
     "repeat_payers_30d": 4,
     "unique_payers_30d": 19
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.001,
    "probe": {
-    "checked_at": "2026-10-29T03:17:02Z",
+    "checked_at": "2026-10-30T03:41:42Z",
     "outcome": "x402_challenge"
    },
    "service": "AgentWire",
    "settlement": {
     "days_active_30d": 22,
-    "payments_30d": 92,
+    "payments_30d": 97,
     "repeat_payers_30d": 4,
     "unique_payers_30d": 19
    },
@@ -985,12 +1009,12 @@
    "category": "other",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 26288,
-    "repeat_payers_30d": 70,
-    "unique_payers_30d": 217
+    "payments_30d": 26272,
+    "repeat_payers_30d": 72,
+    "unique_payers_30d": 222
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
    "noise": "none",
@@ -1011,70 +1035,36 @@
   },
   {
    "catalogue": {
-    "calls_30d": 114,
-    "last_called_at": "2026-10-26T00:16:12.105Z",
-    "payers_30d": 9,
+    "calls_30d": 20,
+    "last_called_at": "2026-10-29T18:20:47.033Z",
+    "payers_30d": 13,
     "signal": "moderate"
    },
-   "category": "ai_inference",
+   "category": "other",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 131,
-    "repeat_payers_30d": 6,
+    "payments_30d": 27,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 18
    },
-   "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
-   "method": "POST",
+   "first_seen": "20261002T150928Z",
+   "last_seen": "20261030T013714Z",
+   "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.001,
    "probe": {
-    "checked_at": "2026-10-29T03:44:26Z",
+    "checked_at": "2026-10-30T03:29:20Z",
     "outcome": "x402_challenge"
    },
    "service": null,
    "settlement": {
-    "days_active_30d": 13,
-    "payments_30d": 131,
-    "repeat_payers_30d": 6,
+    "days_active_30d": 11,
+    "payments_30d": 27,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 18
    },
-   "url": "https://gamemaxxing.baes.so/api/agent/v1/search",
-   "verdict": "verified_paid"
-  },
-  {
-   "catalogue": {
-    "calls_30d": 13,
-    "last_called_at": "2026-10-28T17:18:01.369Z",
-    "payers_30d": 12,
-    "signal": "moderate"
-   },
-   "category": "ai_inference",
-   "entity_settlement": {
-    "days_active_30d": null,
-    "payments_30d": 17,
-    "repeat_payers_30d": 1,
-    "unique_payers_30d": 16
-   },
-   "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
-   "method": "GET",
-   "network": "eip155:8453",
-   "noise": "none",
-   "price_usd": 0.01,
-   "probe": {
-    "checked_at": "2026-10-29T03:05:16Z",
-    "outcome": "x402_challenge"
-   },
-   "service": "BAGS Agent API",
-   "settlement": {
-    "days_active_30d": 12,
-    "payments_30d": 17,
-    "repeat_payers_30d": 1,
-    "unique_payers_30d": 16
-   },
-   "url": "https://www.getbags.app/api/v1",
+   "url": "https://headlessoracle.com/v5/status/x402",
    "verdict": "verified_paid"
   },
   {
@@ -1087,24 +1077,24 @@
    "category": "news_intelligence",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 134,
+    "payments_30d": 136,
     "repeat_payers_30d": 5,
     "unique_payers_30d": 16
    },
    "first_seen": "20261026T125522Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "one_call_per_payer",
    "price_usd": 0.04,
    "probe": {
-    "checked_at": "2026-10-29T03:35:27Z",
+    "checked_at": "2026-10-30T04:02:34Z",
     "outcome": "x402_challenge"
    },
    "service": "Voxight",
    "settlement": {
     "days_active_30d": 27,
-    "payments_30d": 134,
+    "payments_30d": 136,
     "repeat_payers_30d": 5,
     "unique_payers_30d": 16
    },
@@ -1126,13 +1116,13 @@
     "unique_payers_30d": 16
    },
    "first_seen": "20261014T001802Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
    "noise": "single_payer",
    "price_usd": 0.05,
    "probe": {
-    "checked_at": "2026-10-29T04:38:35Z",
+    "checked_at": "2026-10-30T04:57:40Z",
     "outcome": "x402_challenge"
    },
    "service": null,
@@ -1147,33 +1137,67 @@
   },
   {
    "catalogue": {
-    "calls_30d": 10,
-    "last_called_at": "2026-10-26T09:12:51.935Z",
+    "calls_30d": 12,
+    "last_called_at": "2026-10-28T22:47:12.624Z",
+    "payers_30d": 11,
+    "signal": "moderate"
+   },
+   "category": "ai_inference",
+   "entity_settlement": {
+    "days_active_30d": null,
+    "payments_30d": 16,
+    "repeat_payers_30d": 1,
+    "unique_payers_30d": 15
+   },
+   "first_seen": "20260914T104921Z",
+   "last_seen": "20261030T013714Z",
+   "method": "GET",
+   "network": "eip155:8453",
+   "noise": "none",
+   "price_usd": 0.01,
+   "probe": {
+    "checked_at": "2026-10-30T03:46:04Z",
+    "outcome": "x402_challenge"
+   },
+   "service": "BAGS Agent API",
+   "settlement": {
+    "days_active_30d": 11,
+    "payments_30d": 16,
+    "repeat_payers_30d": 1,
+    "unique_payers_30d": 15
+   },
+   "url": "https://www.getbags.app/api/v1",
+   "verdict": "verified_paid"
+  },
+  {
+   "catalogue": {
+    "calls_30d": 11,
+    "last_called_at": "2026-10-29T18:20:35.421Z",
     "payers_30d": 5,
     "signal": "moderate"
    },
    "category": "ai_inference",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 53,
-    "repeat_payers_30d": 2,
+    "payments_30d": 54,
+    "repeat_payers_30d": 3,
     "unique_payers_30d": 15
    },
    "first_seen": "20261012T195158Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "POST",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.001,
    "probe": {
-    "checked_at": "2026-10-29T03:43:16Z",
+    "checked_at": "2026-10-30T03:29:33Z",
     "outcome": "x402_challenge"
    },
    "service": "Laminarity Relay",
    "settlement": {
-    "days_active_30d": 6,
-    "payments_30d": 53,
-    "repeat_payers_30d": 2,
+    "days_active_30d": 7,
+    "payments_30d": 54,
+    "repeat_payers_30d": 3,
     "unique_payers_30d": 15
    },
    "url": "https://api.laminarity.uk/v1/chat/completions",
@@ -1181,9 +1205,9 @@
   },
   {
    "catalogue": {
-    "calls_30d": 14,
-    "last_called_at": "2026-10-25T20:36:40.79Z",
-    "payers_30d": 11,
+    "calls_30d": 15,
+    "last_called_at": "2026-10-28T22:47:32.241Z",
+    "payers_30d": 12,
     "signal": "moderate"
    },
    "category": "ai_inference",
@@ -1194,13 +1218,13 @@
     "unique_payers_30d": 14
    },
    "first_seen": "20260914T104921Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.005,
    "probe": {
-    "checked_at": "2026-10-29T03:46:13Z",
+    "checked_at": "2026-10-30T03:46:00Z",
     "outcome": "x402_challenge"
    },
    "service": null,
@@ -1216,66 +1240,32 @@
   {
    "catalogue": {
     "calls_30d": 15,
-    "last_called_at": "2026-10-26T15:38:53.329Z",
-    "payers_30d": 9,
-    "signal": "moderate"
-   },
-   "category": "other",
-   "entity_settlement": {
-    "days_active_30d": null,
-    "payments_30d": 21,
-    "repeat_payers_30d": 2,
-    "unique_payers_30d": 14
-   },
-   "first_seen": "20261002T150928Z",
-   "last_seen": "20261028T211643Z",
-   "method": "GET",
-   "network": "eip155:8453",
-   "noise": "none",
-   "price_usd": 0.001,
-   "probe": {
-    "checked_at": "2026-10-29T03:39:35Z",
-    "outcome": "x402_challenge"
-   },
-   "service": null,
-   "settlement": {
-    "days_active_30d": 10,
-    "payments_30d": 21,
-    "repeat_payers_30d": 2,
-    "unique_payers_30d": 14
-   },
-   "url": "https://headlessoracle.com/v5/status/x402",
-   "verdict": "verified_paid"
-  },
-  {
-   "catalogue": {
-    "calls_30d": 13,
-    "last_called_at": "2026-10-28T02:48:26.52Z",
-    "payers_30d": 9,
+    "last_called_at": "2026-10-29T12:19:30.39Z",
+    "payers_30d": 10,
     "signal": "moderate"
    },
    "category": "blockchain_data",
    "entity_settlement": {
     "days_active_30d": null,
-    "payments_30d": 20,
-    "repeat_payers_30d": 3,
+    "payments_30d": 21,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 14
    },
    "first_seen": "20260915T071514Z",
-   "last_seen": "20261028T211643Z",
+   "last_seen": "20261030T013714Z",
    "method": "GET",
    "network": "eip155:8453",
    "noise": "none",
    "price_usd": 0.001,
    "probe": {
-    "checked_at": "2026-10-29T03:18:46Z",
+    "checked_at": "2026-10-30T03:37:43Z",
     "outcome": "x402_challenge"
    },
    "service": "Obol",
    "settlement": {
-    "days_active_30d": 13,
-    "payments_30d": 20,
-    "repeat_payers_30d": 3,
+    "days_active_30d": 14,
+    "payments_30d": 21,
+    "repeat_payers_30d": 4,
     "unique_payers_30d": 14
    },
    "url": "https://obol.danieldutoit.net/v1/base/network-status",
